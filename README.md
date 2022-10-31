@@ -1,2 +1,2 @@
 # projet-test
-## etape a : a faire
+## etape a : faire un commit
